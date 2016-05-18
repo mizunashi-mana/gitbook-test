@@ -1,2 +1,3 @@
- * [docs](docs/README.md)
-   * [first](docs/first.md)
+ # Table of Contents
+ 
+ * [first](docs/first.md)
